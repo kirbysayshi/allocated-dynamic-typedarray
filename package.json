@@ -13,5 +13,9 @@
   "license": "MIT",
   "devDependencies": {
     "tape": "^2.14.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/kirbysayshi/allocated-dynamic-typedarray"
+  },
 }
