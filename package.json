@@ -1,6 +1,6 @@
 {
   "name": "allocated-dynamic-typedarray",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A typed array whose length() can change.",
   "main": "index.js",
   "scripts": {
