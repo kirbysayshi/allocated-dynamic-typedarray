@@ -1,0 +1,17 @@
+{
+  "name": "allocated-dynamic-typedarray",
+  "version": "0.0.0",
+  "description": "A typed array whose length() can change.",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test.js"
+  },
+  "keywords": [
+    "typedarray"
+  ],
+  "author": "Drew Petersen <kirbysayshi@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "tape": "^2.14.0"
+  }
+}
